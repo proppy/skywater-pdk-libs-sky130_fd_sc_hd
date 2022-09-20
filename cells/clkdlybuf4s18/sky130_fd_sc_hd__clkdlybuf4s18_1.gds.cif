@@ -7,7 +7,7 @@
 ( @@version : 1.0.334-0-g82d61e2 );
 ( @@techdesc : SkyWater SKY130: Open Source rules and DRC );
 ( @@style : gdsii );
-( @@date : Wed Sep 21 02:13:40 2022 );
+( @@date : Wed Sep 21 02:15:40 2022 );
 DS 1 1 20;
 9 sky130_fd_sc_hd__clkdlybuf4s18_1;
 L BOUND;
@@ -47,7 +47,7 @@ L POLY;
     B 300 1840 950 1130;
     B 360 1840 2640 1130;
     B 1440 710 4750 2395;
-    B 600 710 6190 2395;
+    B 660 710 6220 2395;
     B 360 1830 4650 1125;
     B 300 1830 6340 1125;
 L CONT;

@@ -7,7 +7,7 @@
 ( @@version : 1.0.334-0-g82d61e2 );
 ( @@techdesc : SkyWater SKY130: Open Source rules and DRC );
 ( @@style : gdsii );
-( @@date : Wed Sep 21 02:13:40 2022 );
+( @@date : Wed Sep 21 02:15:40 2022 );
 DS 1 1 20;
 9 sky130_fd_sc_hd__a2111o_1;
 L BOUND;
@@ -133,7 +133,7 @@ L MET1;
 94 VPB 460 5440 WELLTXT;
 94 VGND 460 0 MET1TXT;
 94 VPWR 460 5440 MET1TXT;
-94 VNB 4120 35 SUBTXT;
+94 VNB 4140 0 SUBTXT;
 94 VNB 460 0 SUBTXT;
 94 B1 5060 2380 LITXT;
 94 X 460 4420 LITXT;
